@@ -1,0 +1,156 @@
+1497443995680	geckodriver	INFO	Listening on 127.0.0.1:53263
+1497443997718	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.sx50XSAmfIwh
+1497443997721	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497443997810	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53272
+1497443999302	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497444000533	Marionette	INFO	Listening on port 53272
+1497444000953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497444004754	Marionette	INFO	Ceased listening
+1497444016929	geckodriver	INFO	Listening on 127.0.0.1:53314
+1497444018970	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.uj2rAg2hlIxf
+1497444018973	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497444018994	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53321
+1497444019639	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+JavaScript error: resource://app/modules/UITour.jsm, line 675: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 675: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 675: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 675: TypeError: window is null
+1497444050401	Marionette	INFO	Listening on port 53321
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497444050666	Marionette	INFO	Ceased listening
+tyTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1497444038769	Marionette	INFO	Listening on port 53369
+1497444039088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497444048887	Marionette	INFO	Ceased listening
+1497444170555	geckodriver	INFO	Listening on 127.0.0.1:53763
+1497444172576	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.fYzSQlX4s8na
+1497444172579	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497444172602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53771
+1497444173244	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497444174424	Marionette	INFO	Listening on port 53771
+1497444174611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 389: unreachable code after return statement
+JavaScript error: http://download.csdn.net/static/static/js/libs/require.js, line 166: Error: Script error for: apps/_verificaUser
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://download.csdn.net/static/static/js/libs/require.js, line 166: Error: Script error for: apps/PreviewImage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://download.csdn.net/static/static/js/libs/require.js, line 166: Error: Script error for: apps/hide
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://download.csdn.net/static/static/js/libs/require.js, line 166: Error: Script error for: apps/securityHide
+http://requirejs.org/docs/errors.html#scripterror
+1497444595462	geckodriver	INFO	Listening on 127.0.0.1:54915
+1497444597492	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.aInZKqZPyYsS
+1497444597495	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497444597518	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54923
+1497444598140	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497444599334	Marionette	INFO	Listening on port 54923
+1497444599783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 389: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.11.1.min.js, line 3: TypeError: a.ownerDocument.defaultView is null
+JavaScript error: http://download.csdn.net/static/static/js/libs/require.js, line 166: Error: Script error for: apps/hide
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://download.csdn.net/static/static/js/libs/require.js, line 166: Error: Script error for: apps/dlReport
+http://requirejs.org/docs/errors.html#scripterror
+1497444701345	geckodriver	INFO	Listening on 127.0.0.1:55171
+1497444703376	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.819Nn4ajwmJD
+1497444703379	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497444703402	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55179
+1497444704073	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497444705712	Marionette	INFO	Listening on port 55179
+1497444706509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 389: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 389: unreachable code after return statement
+JavaScript error: http://download.csdn.net/static/static/js/libs/require.js, line 166: Error: Script error for: apps/followMenu
+http://requirejs.org/docs/errors.html#scripterror
+1497444841463	geckodriver	INFO	Listening on 127.0.0.1:55613
+1497444843495	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.XDrIaeD5aRLM
+1497444843498	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497444843519	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55621
+1497444844203	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1497444925223	Marionette	INFO	Listening on port 55621
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497444925484	Marionette	INFO	Ceased listening
+55758
+1497444895339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1497444932639	geckodriver	INFO	Listening on 127.0.0.1:55907
+1497444934670	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.jXaCdQAN8s9C
+1497444934673	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497444934695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55917
+1497444935366	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497444936963	Marionette	INFO	Listening on port 55917
+1497444937809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 46ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript error: https://developer.cdn.mozilla.net/static/build/js/main.4803fc058a62.js, line 5: TypeError: win.mdn.fonts is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497445064121	Marionette	INFO	Ceased listening
+1497445649320	geckodriver	INFO	Listening on 127.0.0.1:56936
+1497445651350	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.kIMxEJDyFbxP
+1497445651354	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497445651378	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56942
+1497445652076	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497445653800	Marionette	INFO	Listening on port 56942
+1497445654492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497445711607	Marionette	INFO	Ceased listening
+1497445795538	geckodriver	INFO	Listening on 127.0.0.1:56998
+1497445797557	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Q4m91M5RKohh
+1497445797560	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497445797572	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57005
+1497445797967	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497445799545	Marionette	INFO	Listening on port 57005
+1497445799779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497446273618	Marionette	INFO	Ceased listening
+1497446678352	geckodriver	INFO	Listening on 127.0.0.1:54764
+1497446680372	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.wzINK101R9Yo
+1497446680375	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe
+1497446680387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54770
+1497446681093	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1497446682205	Marionette	INFO	Listening on port 54770
+1497446682651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1497447051264	Marionette	INFO	Ceased listening
+1497524964121	geckodriver	INFO	Listening on 127.0.0.1:50683
+1497524966199	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497524968533	Marionette	INFO	Listening on port 50694
+1497524969339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1447_21091_17001_22073&req=2&csor=5&pwd=sele&cb=jQuery110205828848276897027_1497524969615&_=1497524969621, line 1: TypeError: jQuery110205828848276897027_1497524969615 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1447_21091_17001_22073&req=2&csor=3&pwd=se&cb=jQuery110205828848276897027_1497524969615&_=1497524969619, line 1: TypeError: jQuery110205828848276897027_1497524969615 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1447_21091_17001_22073&req=2&csor=6&pwd=selen&cb=jQuery110205828848276897027_1497524969615&_=1497524969622, line 1: TypeError: jQuery110205828848276897027_1497524969615 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1447_21091_17001_22073&req=2&csor=7&pwd=seleni&cb=jQuery110205828848276897027_1497524969615&_=1497524969623, line 1: TypeError: jQuery110205828848276897027_1497524969615 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1447_21091_17001_22073&req=2&csor=8&pwd=seleniu&cb=jQuery110205828848276897027_1497524969615&_=1497524969624, line 1: TypeError: jQuery110205828848276897027_1497524969615 is not a function
+1497524970413	Marionette	INFO	New connections will no longer be accepted
+1497524984127	geckodriver	INFO	Listening on 127.0.0.1:50745
+1497524986154	geckodriver::marionette	INFO	Starting browser F:\360downloads\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497524987601	Marionette	INFO	Listening on port 50753
+1497524987701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=2&pwd=s&cb=jQuery110203142852407779432_1497524987981&_=1497524987984, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=3&pwd=se&cb=jQuery110203142852407779432_1497524987981&_=1497524987985, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=6&pwd=selen&cb=jQuery110203142852407779432_1497524987981&_=1497524987988, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=5&pwd=sele&cb=jQuery110203142852407779432_1497524987981&_=1497524987987, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=7&pwd=seleni&cb=jQuery110203142852407779432_1497524987981&_=1497524987989, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=8&pwd=seleniu&cb=jQuery110203142852407779432_1497524987981&_=1497524987990, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=1&cb=jQuery110203142852407779432_1497524987981&_=1497524987983, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1422_21102_18559_17001_20929&req=2&csor=4&pwd=sel&cb=jQuery110203142852407779432_1497524987981&_=1497524987986, line 1: TypeError: jQuery110203142852407779432_1497524987981 is not a function
+1497524996160	Marionette	INFO	Ceased listening
